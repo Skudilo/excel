@@ -1,0 +1,29 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure Javascript Excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skudilo/excel.git"
+  },
+  "keywords": [
+    "js",
+    "excel"
+  ],
+  "author": "Skudilo Oleg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skudilo/excel/issues"
+  },
+  "homepage": "https://github.com/Skudilo/excel#readme",
+  "devDependencies": {
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
